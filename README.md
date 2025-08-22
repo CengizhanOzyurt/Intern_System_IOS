@@ -65,7 +65,6 @@ It integrates with the ASP.NET Core backend API used in the web version.
 
 ### Login Screen
 ![Login Screen](/Intern%20System/images/images/login.png)
-
 ### Home Screen
 ![Home Screen](/Intern System/images/home.png)
 
