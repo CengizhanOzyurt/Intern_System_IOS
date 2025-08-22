@@ -64,10 +64,10 @@ It integrates with the ASP.NET Core backend API used in the web version.
 ## Screenshots
 
 ### Login Screen
-![Login Screen](/images/login.png)
+![Login Screen](images/login.png)
 
 ### Home Screen
-![Home Screen](/images/home.png)
+![Home Screen](images/home.png)
 
 ---
 
